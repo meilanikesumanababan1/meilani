@@ -1,5 +1,14 @@
-# WGTIK_2021
-Base code for personal website exercise for WGTIK 2021
+<h1> 👋 Hi, my name is Yulia Karen.</h1>
 
-example result:
-[https://adf-telkomuniv.github.io/WGTIK_2021/](https://adf-telkomuniv.github.io/WGTIK_2021/)
+I'm an Information Technology student at Telkom University
+
+
+<!---
+
+- 👋 Hi, I’m @yuliakaren
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞 I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
